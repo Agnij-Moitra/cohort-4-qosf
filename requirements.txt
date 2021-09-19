@@ -9,5 +9,4 @@ qiskit-machine-learning==0.2.0
 qiskit-nature==0.1.5
 qiskit-optimization==0.2.1
 qiskit-terra==0.18.1
-ibm-quantum-widgets
 jupyter==1.0.0
